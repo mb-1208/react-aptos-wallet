@@ -1,0 +1,34 @@
+.wallet-network-bg {
+    padding: 0.25rem .25rem;
+    background-color: #282c34 !important;
+    border-radius: .5rem;
+}
+.connect-acordion{
+    background-color: #cacfda;
+    color: white;
+    padding: 0.25rem .5rem;
+    margin-left: .5rem;
+    border-radius: 0.25rem;
+    flex-basis: fit-content;    
+}
+
+.wallet-adapter-list {
+    padding: .5rem 1rem !important;
+    border-radius: .5rem;
+    height: auto;
+    margin-bottom: .5rem;
+    text-align: start;
+}
+
+.wallet-copy{
+    background-color: #545963;
+    padding: 0.25rem;
+    margin-left: .5rem;
+    border-radius: 0.25rem;
+}
+
+.wallet-network {
+    align-self: center;
+    color: white;
+    padding: 0.5rem .5rem;
+}
